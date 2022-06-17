@@ -14,11 +14,11 @@ Tecnologias utilizadas:
 - JavaScrit - React - HTML - CSS
 
 Pessoas Contribuidoras:
-- Rodrigo Vieira 
-- Sérvulo Silva
-- Pablo Gomes 
-- Matheus Souza
-- Willhan Marques
+- [Rodrigo Vieira](https://github.com/Pods89) 
+- [Sérvulo Silva](https://github.com/servuloccsilva)
+- [Pablo Gomes](https://github.com/Pabloweb2022) 
+- [Matheus Souza](https://github.com/matheus92as)
+- [Willhan Marques](https://github.com/willmarques09)
 
 Link Surge:
 http://labefood-rappi.surge.sh
